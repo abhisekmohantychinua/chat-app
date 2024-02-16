@@ -1,2 +1,5 @@
-package dev.abhisek.server.entity;public enum MessageType {
+package dev.abhisek.server.entity;
+
+public enum MessageType {
+    CHAT,JOIN,LEAVE
 }
